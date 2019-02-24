@@ -1,0 +1,25 @@
+Total
+-----------------
+Rainy Days:  38
+Cloudy Days: 29
+Sunny Days:  23
+
+January
+-----------------
+Rainy Days:  11
+Cloudy Days: 8
+Sunny Days:  11
+
+February
+-----------------
+Rainy Days:  11
+Cloudy Days: 14
+Sunny Days:  5
+
+March
+-----------------
+Rainy Days:  16
+Cloudy Days: 7
+Sunny Days:  7
+
+Rainiest Month: March
