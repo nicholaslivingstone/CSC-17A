@@ -1,0 +1,20 @@
+Northern Division Sales
+Quarter 1: $    1001.00
+Quarter 2: $       1.00
+Quarter 3: $       1.00
+Quarter 4: $       1.00
+Southern Division Sales
+Quarter 1: $       1.00
+Quarter 2: $       1.00
+Quarter 3: $       1.00
+Quarter 4: $       1.00
+Eastern Division Sales
+Quarter 1: $       1.00
+Quarter 2: $       1.00
+Quarter 3: $       1.00
+Quarter 4: $       1.00
+Western Division Sales
+Quarter 1: $       1.00
+Quarter 2: $       1.00
+Quarter 3: $       1.00
+Quarter 4: $       1.00
