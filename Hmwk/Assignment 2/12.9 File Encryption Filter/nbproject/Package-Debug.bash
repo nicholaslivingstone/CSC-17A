@@ -13,9 +13,9 @@ CND_BUILDDIR=build
 CND_DLIB_EXT=so
 NBTMPDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/12.11_corporate_sales_data_modified_to_output_binary_data_for_12.12_
-OUTPUT_BASENAME=12.11_corporate_sales_data_modified_to_output_binary_data_for_12.12_
-PACKAGE_TOP_DIR=12.11corporatesalesdata(modifiedtooutputbinarydatafor12.12)/
+OUTPUT_PATH=${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/12.9_file_encryption_filter
+OUTPUT_BASENAME=12.9_file_encryption_filter
+PACKAGE_TOP_DIR=12.9fileencryptionfilter/
 
 # Functions
 function checkReturnCode
@@ -60,15 +60,15 @@ mkdir -p ${NBTMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory "${NBTMPDIR}/12.11corporatesalesdata(modifiedtooutputbinarydatafor12.12)/bin"
+makeDirectory "${NBTMPDIR}/12.9fileencryptionfilter/bin"
 copyFileToTmpDir "${OUTPUT_PATH}" "${NBTMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/12.11corporatesalesdata\(modifiedtooutputbinarydatafor12.12\).tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/12.9fileencryptionfilter.tar
 cd ${NBTMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/12.11corporatesalesdata\(modifiedtooutputbinarydatafor12.12\).tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/package/12.9fileencryptionfilter.tar *
 checkReturnCode
 
 # Cleanup

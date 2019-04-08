@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=12.11_Corporate_Sales_Data(Modified to output binary data for 12.12)
+PROJECTNAME=12.9 File Encryption Filter
 
 # Active Configuration
 DEFAULTCONF=Debug
