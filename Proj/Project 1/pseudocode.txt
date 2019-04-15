@@ -1,0 +1,16 @@
+hangman main menu
+
+game structures
+    players
+
+char array of word
+
+pick work
+
+display options
+
+have player guess
+
+check win/lose conditions
+
+maybe loop

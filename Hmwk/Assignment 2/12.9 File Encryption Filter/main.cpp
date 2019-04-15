@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     string str;
     string strEncrypt; 
     int n; 
-    
+     
     file.get(ch);
     
     while(file){
