@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Project_1_1.2
+PROJECTNAME=F7 Search an array for a value.
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=project_1_1.2
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/project_1_1.2
+CND_ARTIFACT_NAME_Debug=f7_search_an_array_for_a_value_
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/f7_search_an_array_for_a_value_
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=project11.2.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/project11.2.tar
+CND_PACKAGE_NAME_Debug=f7searchanarrayforavalue..tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/f7searchanarrayforavalue..tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=project_1_1.2
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/project_1_1.2
+CND_ARTIFACT_NAME_Release=f7_search_an_array_for_a_value_
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/f7_search_an_array_for_a_value_
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=project11.2.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/project11.2.tar
+CND_PACKAGE_NAME_Release=f7searchanarrayforavalue..tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/f7searchanarrayforavalue..tar
 #
 # include compiler specific variables
 #
