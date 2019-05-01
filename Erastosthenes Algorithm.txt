@@ -1,0 +1,35 @@
+//implementing queues and Erastosthene's Algorithm for finding primes
+    int n; 
+    cin >> n;
+
+    queue<int> ints;   
+    queue<int> primes; 
+    int p, first;
+    
+    for(int i = 2; i < n; i++){
+        ints.push(i);
+    }
+    
+    do{
+        p = ints.front();
+        ints.pop();
+        primes.push(p);
+        first = ints.front();
+        do{
+            if(ints.front() % p == 0){
+                ints.pop();
+            }
+            else{
+                ints.push(ints.front());
+                ints.pop(); 
+            }
+        }while(ints.front() != first);
+    }while(p < sqrt(n));
+    
+    while (!primes.empty()){
+        cout << ' ' << primes.front();
+        primes.pop();
+    }
+    
+    return 0;
+}
