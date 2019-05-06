@@ -1,0 +1,6 @@
+﻿  Test.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Test.vcxproj -> C:\Users\freez\Documents\CIS 17A\Test\Release\Test.exe
