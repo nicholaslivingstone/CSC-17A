@@ -1,0 +1,3 @@
+﻿  16.1 Date Exceptions.cpp
+C:\Users\freez\Documents\CIS 17A\Hmwk\Assignmnet 6 VS\16.1 Date Exceptions\16.1 Date Exceptions.cpp(37): warning C4715: 'Date::monthWord': not all control paths return a value
+  16.1 Date Exceptions.vcxproj -> C:\Users\freez\Documents\CIS 17A\Hmwk\Assignmnet 6 VS\16.1 Date Exceptions\Debug\16.1 Date Exceptions.exe

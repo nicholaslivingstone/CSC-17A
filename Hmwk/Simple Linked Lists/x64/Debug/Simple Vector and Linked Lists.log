@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Simple Vector and Linked Lists.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Simple Vector and Linked Lists.cpp
+Simple Vector and Linked Lists.obj : error LNK2019: unresolved external symbol "public: __cdecl SimpleVector<int>::~SimpleVector<int>(void)" (??1?$SimpleVector@H@@QEAA@XZ) referenced in function main
+C:\Users\freez\Documents\CIS 17A\Hmwk\Simple Linked Lists\x64\Debug\Linked List.exe : fatal error LNK1120: 1 unresolved externals
