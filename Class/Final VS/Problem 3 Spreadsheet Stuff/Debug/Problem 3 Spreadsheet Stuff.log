@@ -1,0 +1,27 @@
+﻿  Prob3Table.cpp
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3Table.h(17,1): error C2061:  syntax error: identifier 'string'
+  Prob3TableInherited.cpp
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3Table.h(23): message :  see reference to class template instantiation 'Prob3Table<T>' being compiled
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3Table.h(17,1): error C2061:  syntax error: identifier 'string'
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3Table.h(23): message :  see reference to class template instantiation 'Prob3Table<T>' being compiled
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(9,1): error C2061:  syntax error: identifier 'string'
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(12): message :  see reference to class template instantiation 'Prob3TableInherited<T>' being compiled
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(15,52): error C2065:  'string': undeclared identifier
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(15,1): error C2062:  type 'int' unexpected
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2143:  syntax error: missing ';' before '{'
+  Problem 3 Spreadsheet Stuff.cpp
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2512:  'Prob3Table<T>': no appropriate default constructor available
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2512:         with
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2512:         [
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2512:             T=int
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16,1): error C2512:         ]
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(4,35): message :  see declaration of 'Prob3Table<T>'
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(4,35): message :         with
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(4,35): message :         [
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(4,35): message :             T=int
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(4,35): message :         ]
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Prob3TableInherited.h(16): message :  while compiling class template member function 'Prob3TableInherited<int>::Prob3TableInherited(std::string,int,int)'
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Problem 3 Spreadsheet Stuff.cpp(15): message :  see reference to function template instantiation 'Prob3TableInherited<int>::Prob3TableInherited(std::string,int,int)' being compiled
+  Generating Code...
+C:\Users\freez\Documents\Repositories\CSC-17A\Class\Final VS\Problem 3 Spreadsheet Stuff\Problem 3 Spreadsheet Stuff.cpp(15): message :  see reference to class template instantiation 'Prob3TableInherited<int>' being compiled
