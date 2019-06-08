@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 2 All Kinds of Sorting", "Problem 2 All Kinds of Sorting.vcxproj", "{47705C12-3357-4855-A757-ECD33F6A0146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Debug|x64.ActiveCfg = Debug|x64
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Debug|x64.Build.0 = Debug|x64
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Debug|x86.ActiveCfg = Debug|Win32
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Debug|x86.Build.0 = Debug|Win32
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Release|x64.ActiveCfg = Release|x64
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Release|x64.Build.0 = Release|x64
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Release|x86.ActiveCfg = Release|Win32
+		{47705C12-3357-4855-A757-ECD33F6A0146}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E88D6D-1D25-4391-893B-2A63398428B6}
+	EndGlobalSection
+EndGlobal
